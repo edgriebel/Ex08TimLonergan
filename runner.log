@@ -1,0 +1,5 @@
+2022-11-29 14:21:27.248 [main] DEBUG EdgeConvertGUI - Creating GUI
+2022-11-29 14:21:28.016 [main] INFO  EdgeConvertGUI - Showing GUI
+2022-11-29 14:21:28.016 [main] DEBUG RunEdgeConvert - Starting EdgeConvert
+2022-11-29 14:21:52.634 [AWT-EventQueue-0] WARN  EdgeConvertGUI - Cancelling OpenEdge, user selected non-confirmation option
+2022-11-29 14:22:00.332 [AWT-EventQueue-0] INFO  EdgeConvertGUI - Exiting program via window close option
